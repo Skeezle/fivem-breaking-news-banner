@@ -1,0 +1,24 @@
+* { box-sizing: border-box; }
+html, body { margin: 0; padding: 0; font-family: Arial, Helvetica, sans-serif; }
+
+#banner {
+  position: absolute;
+  left: 50%;
+  top: 8%;
+  transform: translateX(-50%);
+  min-width: 640px;
+  max-width: 75vw;
+  background: rgba(0,0,0,0.75);
+  color: #fff;
+  border: 2px solid #e11;
+  border-radius: 10px;
+  padding: 16px 20px;
+  text-align: center;
+  box-shadow: 0 10px 30px rgba(0,0,0,0.5);
+}
+
+.hidden { display: none; }
+
+.title { font-size: 28px; font-weight: 800; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 6px; }
+.message { font-size: 18px; margin-bottom: 8px; }
+.bottom { font-size: 14px; opacity: 0.9; }
