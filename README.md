@@ -101,5 +101,9 @@ Skeezle-newsalert/
 
 ## ✅ Credits
 
-- **Original Concept:** Skeezle  
+- **Concept:** Skeezle
+
+## License
+
+This project is licensed under the MIT License. You are free to use, modify, and distribute this script, including for commercial use, as long as the original license notice is included.
 
